@@ -3,8 +3,11 @@
 you can find this at .backup using
 
 ls -lia
+
 cd .backup
+
 vi bookmarks.html (iirc)
+
 and just use the slash command (/) on the vim to find a character like hint/key/password etc
 
 congratulations you got the password
