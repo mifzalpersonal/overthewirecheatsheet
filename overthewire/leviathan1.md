@@ -58,3 +58,5 @@ $ cd ..
 $ ls
 
 here is the proof,i might need to learn the logic behind that. im curious
+
+also im going to sleep bye. im typing this shit at 10 pm lol
